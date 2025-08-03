@@ -4,8 +4,8 @@ A simple yet elegant implementation of the classic **Tic-Tac-Toe (X-O)** game bu
 
 ## 🖼️ Screenshots
 
-| Home Screen       | Game Board                          | Winner Dialog                            |
-|-------------------|-------------------------------------|------------------------------------------|
+| Home Screen       | Game Board                          | Winner Dialog |
+|-------------------|-------------------------------------|-------------|
 | ![Home](screenshots/homescreen.png) | ![Game](screenshots/gamescreen.png) | ![Winner](screenshots/result screen.png) |
 
 ## 🚀 Features
